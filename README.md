@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K1ngG0r
+# @K1ngG0r
 - 👀 I’m interested in System Programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m just student, please give maney & don't kill me,  I'm still learning!
@@ -7,4 +7,4 @@
 
 ![BIBIZYAN](cache/me.gif)
 
-# by [MaxProger338](https://github.com/MaxProger338) 
+//by [MaxProger338](https://github.com/MaxProger338) 
