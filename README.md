@@ -6,3 +6,5 @@
 - 😄 Pronouns: he / him / @Kingigor / GorMor
 
 ![BIBIZYAN](cache/me.gif)
+
+# by [MaxProger338](https://github.com/MaxProger338) 
